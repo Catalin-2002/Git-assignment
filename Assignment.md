@@ -38,9 +38,8 @@ Below is an overview of the main folders and files in this project:
     │   ├── models/             # Scripts to train models and predict
     │   └── visualization/      # Visualization scripts e.g. for results interpretation, possibly called by notebooks
     │
-    ├── models/                 # Trained 
-    │
     ├── requirements.txt        # Required packages and dependencies for reproducibility
+    ├── .gitignore
     └── README.md               # Project description and instructions
 
 
